@@ -1,12 +1,12 @@
-ShopNova E-Commerce Data Analytics Project
+<h1 align="center"><b>ShopNova E-Commerce Data Analytics Project</b></h1>
 
-📌 Project Overview
+<h2><b>📌 Project Overview</b></h2>
 
 ShopNova is an end-to-end E-Commerce Data Analytics project designed to analyze sales, customers, products, marketing performance, and business operations.
 
-The project uses SQL, Excel, Python, Power BI, and Tableau to transform business data into meaningful insights and interactive dashboards.
+The project uses <b>SQL, Excel, Python, Power BI, and Tableau</b> to transform business data into meaningful insights and interactive dashboards.
 
-🎯 Business Objectives
+<h2><b>🎯 Business Objectives</b></h2>
 
 Analyze overall sales and revenue performance
 
@@ -30,7 +30,7 @@ Identify top-performing categories and products
 
 Analyze sales and operational performance
 
-🛠️ Tools & Technologies
+<h2><b>🛠️ Tools & Technologies</b></h2>
 
 SQL / MySQL
 
@@ -50,11 +50,11 @@ DAX
 
 Tableau
 
-📊 Dashboards & Analysis
+<h2><b>📊 Dashboards & Analysis</b></h2>
 
-1. Power BI – Sales & Operations Dashboard
+<h3><b>1. Power BI – Sales & Operations Dashboard</b></h3>
 
-The Sales & Operations dashboard analyzes:
+The dashboard analyzes:
 
 Net Revenue
 
@@ -82,22 +82,20 @@ Top Cities by Revenue
 
 <table>
 <tr>
-<td width="50%">
-<img src="screenshots/powerbi_sales_operations.png" width="100%">
+<td align="center" width="50%">
+<img src="screenshots/powerbi_sales_operations.png" width="100%"><br>
+<b>Sales & Operations Dashboard</b>
 </td>
-<td width="50%">
-<img src="screenshots/powerbi_customer_marketing.png" width="100%">
+<td align="center" width="50%">
+<img src="screenshots/powerbi_customer_marketing.png" width="100%"><br>
+<b>Customer & Marketing Dashboard</b>
 </td>
-</tr>
-<tr>
-<td align="center"><b>Sales & Operations</b></td>
-<td align="center"><b>Customer & Marketing</b></td>
 </tr>
 </table>
 
-2. Power BI – Customer & Marketing Dashboard
+<h3><b>2. Power BI – Customer & Marketing Dashboard</b></h3>
 
-The Customer & Marketing dashboard analyzes:
+The dashboard analyzes:
 
 Total Customers
 
@@ -127,17 +125,17 @@ CLV by Customer Segment
 
 Marketing Channel Performance
 
-3. Python – Exploratory & Statistical Analysis
+<h3><b>3. Python – Exploratory & Statistical Analysis</b></h3>
 
 Python was used for exploratory data analysis, statistical analysis, and visualization.
 
-Product Analysis
+<b>Product Analysis</b>
 
 Product Rating Distribution
 
 Product Price vs Rating Analysis
 
-Customer Statistical Analysis
+<b>Customer Statistical Analysis</b>
 
 Customer Lifetime Spend Distribution
 
@@ -145,20 +143,18 @@ Orders vs Customer Spend Relationship
 
 <table>
 <tr>
-<td width="50%">
-<img src="screenshots/python_product_analysis.png" width="100%">
+<td align="center" width="50%">
+<img src="screenshots/python_product_analysis.png" width="100%"><br>
+<b>Product Analysis</b>
 </td>
-<td width="50%">
-<img src="screenshots/python_customer_analysis.png" width="100%">
+<td align="center" width="50%">
+<img src="screenshots/python_customer_analysis.png" width="100%"><br>
+<b>Customer Statistical Analysis</b>
 </td>
-</tr>
-<tr>
-<td align="center"><b>Product Analysis</b></td>
-<td align="center"><b>Customer Statistical Analysis</b></td>
 </tr>
 </table>
 
-Python Libraries
+<b>Python Libraries</b>
 
 Pandas
 
@@ -166,7 +162,7 @@ NumPy
 
 Matplotlib
 
-4. SQL Analysis
+<h3><b>4. SQL Analysis</b></h3>
 
 SQL / MySQL was used to:
 
@@ -184,15 +180,15 @@ Perform grouping and filtering
 
 Extract business insights
 
-5. Tableau Dashboard
+<h3><b>5. Tableau Dashboard</b></h3>
 
 Tableau was used to create interactive business visualizations and support data-driven analysis.
 
-<img src="screenshots/tableau_dashboard.png" width="100%">
+<p align="center">
+<img src="screenshots/tableau_dashboard.png" width="90%">
+</p>
 
-📈 Key Business KPIs
-
-The project analyzes important KPIs such as:
+<h2><b>📈 Key Business KPIs</b></h2>
 
 Total Customers
 
@@ -220,7 +216,7 @@ Customer Lifetime Value
 
 Customer Acquisition Cost
 
-🔍 Key Insights
+<h2><b>🔍 Key Insights</b></h2>
 
 The analysis helps identify:
 
@@ -242,11 +238,13 @@ Product rating patterns
 
 Operational and order-status trends
 
-🔄 Project Workflow
+<h2><b>🔄 Project Workflow</b></h2>
 
-Raw Data → Data Cleaning → SQL Analysis → Python EDA → Power BI / Tableau → Business Insights
+<p align="center">
+<b>Raw Data → Data Cleaning → SQL Analysis → Python EDA → Power BI / Tableau → Business Insights</b>
+</p>
 
-📁 Project Structure
+<h2><b>📁 Project Structure</b></h2>
 
 shopnova-ecommerce-data-analytics/
 │
@@ -282,7 +280,7 @@ shopnova-ecommerce-data-analytics/
 └── docs/
     └── project_summary.pdf
 
-💡 Skills Demonstrated
+<h2><b>💡 Skills Demonstrated</b></h2>
 
 Data Cleaning
 
@@ -310,10 +308,10 @@ Marketing Analytics
 
 Sales Analytics
 
-👨‍💻 Project Type
+<h2><b>👨‍💻 Project Type</b></h2>
 
-E-Commerce Data Analytics
+<b>E-Commerce Data Analytics</b>
 
-📌 Author
+<h2><b>📌 Author</b></h2>
 
-Your Name
+<b>Your Name</b>
