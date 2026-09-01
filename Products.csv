@@ -1,0 +1,88 @@
+﻿Product_ID,Product_Name,Category,Sub_Category,Brand,Cost_Price_INR,Selling_Price_INR,Gross_Margin_Pct,Avg_Rating,Total_Reviews,Stock_Units,HSN_Code,GST_Pct
+PRD1001,Samsung Galaxy A54 5G,Electronics,Smartphones,Samsung,18999,28999,34.5,4.2,11981,296,5976,12
+PRD1002,Apple iPhone 14 128GB,Electronics,Smartphones,Apple,59999,79999,25,4.8,6768,135,9735,12
+PRD1003,OnePlus Nord CE 3 Lite,Electronics,Smartphones,OnePlus,16999,19999,15,4.5,12096,255,6802,28
+PRD1004,Redmi Note 13 Pro 5G,Electronics,Smartphones,Redmi,21999,26999,18.5,4.3,10136,111,6071,18
+PRD1005,Vivo V29 Pro 5G,Electronics,Smartphones,Vivo,29999,36999,18.9,4.3,12032,105,8676,12
+PRD1006,Realme 12 Pro+ 5G,Electronics,Smartphones,Realme,22999,27999,17.9,4.3,14262,210,1958,18
+PRD1007,HP Pavilion 15 Core i5 8GB,Electronics,Laptops,HP,47999,58999,18.6,4.4,7683,63,3276,18
+PRD1008,Dell Inspiron 15 Core i7,Electronics,Laptops,Dell,59999,74999,20,4.1,5707,102,6332,28
+PRD1009,Lenovo IdeaPad Slim 3 15,Electronics,Laptops,Lenovo,39999,49999,20,4.1,9351,109,7667,12
+PRD1010,Asus VivoBook 16X OLED,Electronics,Laptops,Asus,54999,64999,15.4,3.8,12336,115,1318,18
+PRD1011,Acer Aspire Lite AMD Ryzen 5,Electronics,Laptops,Acer,36999,44999,17.8,4.8,5280,291,7898,5
+PRD1012,Samsung Galaxy Tab A8 LTE,Electronics,Tablets,Samsung,19999,24999,20,4,10744,118,4867,28
+PRD1013,Apple iPad 10th Gen 64GB,Electronics,Tablets,Apple,44900,52999,15.3,4,3377,188,9082,12
+PRD1014,Lenovo Tab M10 FHD Plus,Electronics,Tablets,Lenovo,13999,17999,22.2,3.9,10267,172,6496,28
+PRD1015,boAt Rockerz 450 Bluetooth,Electronics,Earphones,boAt,899,1999,55,4.8,11257,67,6436,12
+PRD1016,Sony WH-1000XM5 Wireless,Electronics,Earphones,Sony,22990,31999,28.2,4.4,1122,50,3846,5
+PRD1017,JBL Tune 760NC Headphone,Electronics,Earphones,JBL,4999,7999,37.5,4.8,7228,120,6739,12
+PRD1018,boAt Airdopes 141 TWS,Electronics,Earphones,boAt,649,1299,50,3.6,13206,145,4920,28
+PRD1019,Noise Buds VS104 TWS,Electronics,Earphones,Noise,799,1299,38.5,4.4,7947,268,8143,28
+PRD1020,Noise ColorFit Pro 4,Electronics,Smartwatches,Noise,1499,2999,50,3.8,1210,154,5956,18
+PRD1021,boAt Wave Flex Connect,Electronics,Smartwatches,boAt,999,1999,50,3.7,10889,128,9639,5
+PRD1022,Samsung Galaxy Watch 6,Electronics,Smartwatches,Samsung,22999,29999,23.3,4.2,14648,100,7366,12
+PRD1023,Fitbit Charge 6,Electronics,Smartwatches,Fitbit,14995,18999,21.1,4.3,3707,163,6809,5
+PRD1024,Canon EOS 1500D DSLR Kit,Electronics,Cameras,Canon,34995,44999,22.2,4.4,11158,278,7176,5
+PRD1025,Sony Alpha ZV-E10L Mirrorless,Electronics,Cameras,Sony,64990,79999,18.8,3.7,963,265,3055,12
+PRD1026,Levi's 511 Slim Fit Jeans,Fashion,Men's Clothing,Levi's,2199,3999,45,4.9,10125,44,9259,12
+PRD1027,Allen Solly Formal Shirt,Fashion,Men's Clothing,Allen Solly,799,1799,55.6,3.9,9617,84,3654,5
+PRD1028,Van Heusen Slim Fit Chinos,Fashion,Men's Clothing,Van Heusen,1299,2499,48,3.7,1758,287,1494,5
+PRD1029,Peter England Casual Polo T-Shirt,Fashion,Men's Clothing,Peter England,599,1299,53.9,4.3,8967,161,1007,5
+PRD1030,H&M Regular Fit Linen Shirt,Fashion,Men's Clothing,H&M,999,1799,44.5,3.9,3035,31,2700,12
+PRD1031,Puma Dry-Cell Training T-Shirt,Fashion,Men's Clothing,Puma,799,1599,50,4.4,10610,97,8552,12
+PRD1032,BIBA Floral Printed Kurta,Fashion,Women's Clothing,BIBA,899,1899,52.7,4.2,4518,232,8194,12
+PRD1033,W Ethnic Wear Kurta Set,Fashion,Women's Clothing,W,1199,2299,47.8,4.1,14249,229,7855,12
+PRD1034,Aurelia Embroidered Salwar Suit,Fashion,Women's Clothing,Aurelia,1499,2899,48.3,4.8,2677,159,7519,12
+PRD1035,Zara Flowy Midi Dress,Fashion,Women's Clothing,Zara,2499,3999,37.5,4.6,5893,233,1243,5
+PRD1036,H&M Ribbed Jersey Dress,Fashion,Women's Clothing,H&M,999,1799,44.5,4,97,114,9304,28
+PRD1037,Nike Air Max 270 Running Shoes,Fashion,Footwear,Nike,6999,9999,30,4.5,665,109,8612,28
+PRD1038,Puma Softride Enzo NXT Sneaker,Fashion,Footwear,Puma,2499,4499,44.5,4.3,868,220,6440,5
+PRD1039,Adidas Ultraboost 22 Shoes,Fashion,Footwear,Adidas,9999,13999,28.6,4.3,9111,130,3582,12
+PRD1040,Bata Men's Formal Derby Shoes,Fashion,Footwear,Bata,1499,2799,46.4,4.4,1811,220,2106,12
+PRD1041,Skechers GOwalk 6 Slip-On,Fashion,Footwear,Skechers,2999,4999,40,3.8,14161,173,6037,18
+PRD1042,Fossil Gen 6 Hybrid Smartwatch,Fashion,Accessories,Fossil,8999,13995,35.7,4.2,5995,238,8108,28
+PRD1043,Titan Raga Women's Watch,Fashion,Accessories,Titan,3499,5999,41.7,4.4,2671,19,2992,5
+PRD1044,Wildcraft 35L Hiking Backpack,Fashion,Bags,Wildcraft,1299,2499,48,4,10481,92,9278,5
+PRD1045,American Tourister Trolley Bag 68cm,Fashion,Bags,American Tourister,3999,6999,42.9,3.6,7187,13,5479,12
+PRD1046,Lavie Women Tote Handbag,Fashion,Bags,Lavie,899,1799,50,3.7,8953,290,3252,12
+PRD1047,Prestige Iris 750W Mixer Grinder,Home & Kitchen,Kitchen Appliances,Prestige,2599,3999,35,4.4,1820,220,2682,18
+PRD1048,Philips HL7756 750W Mixer,Home & Kitchen,Kitchen Appliances,Philips,2199,3499,37.2,4.2,2661,118,1000,5
+PRD1049,Bajaj Majesty 2L Induction Cooktop,Home & Kitchen,Kitchen Appliances,Bajaj,2299,3299,30.3,3.8,8821,293,7667,28
+PRD1050,Havells Fresco 800W OTG 19L,Home & Kitchen,Kitchen Appliances,Havells,3299,4999,34,4.4,2881,126,5781,18
+PRD1051,Morphy Richards Instacook 700W MW,Home & Kitchen,Kitchen Appliances,Morphy Richards,6999,9999,30,4.4,7421,57,7626,28
+PRD1052,Hawkins Futura Non-Stick Wok 25cm,Home & Kitchen,Cookware,Hawkins,999,1799,44.5,4.6,5263,256,9553,12
+PRD1053,Prestige Svachh Flip-Lid Pressure Cooker 5L,Home & Kitchen,Cookware,Prestige,1299,2199,40.9,3.9,12822,183,4717,28
+PRD1054,Wonderchef Ebony Non-Stick Tawa 30cm,Home & Kitchen,Cookware,Wonderchef,799,1499,46.7,4.7,9438,158,5690,12
+PRD1055,Spaces 300TC Cotton King Bedsheet,Home & Kitchen,Bedding,Spaces,1299,2499,48,4.2,8913,27,5132,28
+PRD1056,Bombay Dyeing Microfibre Comforter,Home & Kitchen,Bedding,Bombay Dyeing,2199,3999,45,4.7,3482,134,7775,12
+PRD1057,Craftter Wooden Wall Clock,Home & Kitchen,Decor,Craftter,699,1299,46.2,4.5,4717,275,3199,5
+PRD1058,Ivyspace Artificial Plant Set of 3,Home & Kitchen,Decor,Ivyspace,549,999,45,4.3,7644,143,5860,12
+PRD1059,Nilkamal Esteem Bookshelf,Home & Kitchen,Furniture,Nilkamal,4999,7999,37.5,4.5,6430,144,4011,28
+PRD1060,Pepperfry Solid Wood Study Table,Home & Kitchen,Furniture,Pepperfry,7999,12999,38.5,4.7,559,192,2049,12
+PRD1061,Mamaearth Vitamin C Face Wash 100ml,Beauty,Skincare,Mamaearth,219,399,45.1,3.7,10081,165,4126,5
+PRD1062,Dot & Key Watermelon Sleeping Mask 85g,Beauty,Skincare,Dot & Key,549,899,38.9,4.6,4215,16,5283,12
+PRD1063,Minimalist 10% Niacinamide Serum 30ml,Beauty,Skincare,Minimalist,399,699,42.9,4.9,13165,222,3748,12
+PRD1064,Plum Green Tea Pore Cleansing Face Wash,Beauty,Skincare,Plum,299,499,40.1,4.6,13585,136,2135,28
+PRD1065,Cetaphil Moisturising Cream 250g,Beauty,Skincare,Cetaphil,449,699,35.8,3.7,9767,137,3135,28
+PRD1066,Mamaearth Onion Hair Oil 150ml,Beauty,Haircare,Mamaearth,249,449,44.5,4.7,9704,50,4648,12
+PRD1067,Indulekha Bringha Hair Oil 100ml,Beauty,Haircare,Indulekha,349,599,41.7,3.7,10698,70,7313,5
+PRD1068,TRESemmé Keratin Smooth Shampoo 580ml,Beauty,Haircare,TRESemmé,429,699,38.6,5,5596,211,6383,18
+PRD1069,Lakme Absolute Mousse Foundation,Beauty,Makeup,Lakme,449,799,43.8,4.3,12369,120,1329,18
+PRD1070,Maybelline Fit Me Matte Foundation,Beauty,Makeup,Maybelline,399,699,42.9,4.1,9378,136,3801,18
+PRD1071,SUGAR Matte Attack Transferproof Lipstick,Beauty,Makeup,SUGAR,499,899,44.5,3.8,14770,280,3162,28
+PRD1072,Fogg Scent Xpressio EDP 100ml,Beauty,Fragrances,Fogg,449,799,43.8,4.6,3181,64,3138,12
+PRD1073,Wild Stone Gold EDT 50ml,Beauty,Fragrances,Wild Stone,299,599,50.1,3.9,10503,56,7942,28
+PRD1074,Cosco Treadmill CTM-101,Sports,Fitness Equipment,Cosco,19999,29999,33.3,3.6,2602,141,6890,28
+PRD1075,Kore Pvc 30kg Weight Set,Sports,Fitness Equipment,Kore,1899,3499,45.7,4,7951,297,8338,5
+PRD1076,Durafit Spark Cycle 21kg Flywheel,Sports,Fitness Equipment,Durafit,18999,27999,32.1,4.5,4697,95,7272,28
+PRD1077,Nike Dri-FIT Training Shorts,Sports,Sportswear,Nike,1299,1999,35,4.5,8293,248,6959,12
+PRD1078,Adidas Aeroready Training Tights,Sports,Sportswear,Adidas,1799,2799,35.7,3.6,12122,282,5392,12
+PRD1079,Decathlon Quechua 10L Hiking Daypack,Sports,Outdoor Gear,Decathlon,899,1499,40,3.8,7694,167,1109,12
+PRD1080,Wildcraft Camping Tent 2-Person,Sports,Outdoor Gear,Wildcraft,3999,6499,38.5,4.6,6981,25,5615,5
+PRD1081,Atomic Habits – James Clear,Books,Fiction,Penguin,249,450,44.7,4.6,1395,245,8578,12
+PRD1082,The Alchemist – Paulo Coelho,Books,Fiction,HarperCollins,179,350,48.9,4.3,11104,119,6134,18
+PRD1083,Ikigai – Francesc Miralles,Books,Non-Fiction,Penguin,199,399,50.1,4.2,9539,28,4457,28
+PRD1084,Deep Work – Cal Newport,Books,Non-Fiction,HarperCollins,349,599,41.7,4.6,5110,160,5106,18
+PRD1085,Disha UPSC Prelims 20 Years Papers,Books,Educational,Disha,349,599,41.7,3.6,10249,274,9836,18
+PRD1086,Arihant CAT 2024 Solved Papers,Books,Educational,Arihant,399,649,38.5,4,2522,27,6727,5
+PRD1087,Amar Chitra Katha Mahabharata Box Set,Books,Comics,Amar Chitra Katha,799,1299,38.5,4.4,12348,161,4207,12
