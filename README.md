@@ -28,7 +28,7 @@ The project uses **SQL, Excel, Python, Power BI, and Tableau** to transform busi
 
 ## 🛠️ Tools & Technologies
 
-- SQL / MySQL
+- MySQL
 - Microsoft Excel
 - Python
 - Pandas
@@ -118,7 +118,7 @@ Python was used for exploratory data analysis, statistical analysis, and visuali
 
 ## 4. SQL Analysis
 
-SQL / MySQL was used to:
+MySQL was used to:
 
 - Calculate business KPIs
 - Aggregate sales data
@@ -227,4 +227,4 @@ ShopNova/
 
 # 📌 Author
 
-**Your Name**
+**Mallikarjun**
