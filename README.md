@@ -172,6 +172,31 @@ The analysis helps identify:
 - Product rating patterns
 - Operational and order-status trends
 
+### Key Insights Dashboard
+
+![Key Insights](Key_Insights.png)
+
+---
+
+# 💡 Recommendations
+
+The analysis provides recommendations to improve:
+
+- Marketing channel performance
+- Customer retention
+- Customer acquisition
+- Revenue growth
+- Product performance
+- Marketing budget allocation
+- Customer lifetime value
+- Overall business profitability
+
+### Recommendations Dashboard
+
+![Recommendations](Recommendations.png)
+
+---
+
 ---
 
 # 🔄 Project Workflow
