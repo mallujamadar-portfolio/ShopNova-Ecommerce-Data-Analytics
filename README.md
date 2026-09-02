@@ -32,7 +32,7 @@ Analyze sales and operational performance
 
 🛠️ Tools & Technologies
 
-MySQL
+SQL / MySQL
 
 Microsoft Excel
 
@@ -54,7 +54,7 @@ Tableau
 
 1. Power BI – Sales & Operations Dashboard
 
-The dashboard analyzes:
+The Sales & Operations dashboard analyzes:
 
 Net Revenue
 
@@ -80,22 +80,15 @@ Orders by Channel
 
 Top Cities by Revenue
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="powerbi_sales_operations.png" width="100%"><br><br>
-<b>Sales & Operations Dashboard</b>
-</td>
-<td align="center" width="50%">
-<img src="Powerbi_customer_marketing.png" width="100%"><br><br>
-<b>Customer & Marketing Dashboard</b>
-</td>
-</tr>
-</table>
+Dashboard Preview
+
+<img src="powerbi_sales_operations.png" width="100%">
+
+Sales & Operations Dashboard
 
 2. Power BI – Customer & Marketing Dashboard
 
-The dashboard analyzes:
+The Customer & Marketing dashboard analyzes:
 
 Total Customers
 
@@ -125,6 +118,12 @@ CLV by Customer Segment
 
 Marketing Channel Performance
 
+Dashboard Preview
+
+<img src="Powerbi_customer_marketing.png" width="100%">
+
+Customer & Marketing Dashboard
+
 3. Python – Exploratory & Statistical Analysis
 
 Python was used for exploratory data analysis, statistical analysis, and visualization.
@@ -135,28 +134,27 @@ Product Rating Distribution
 
 Product Price vs Rating Analysis
 
+Dashboard Preview
+
+<img src="python_product_analysis.png" width="100%">
+
+Python Product Analysis
+
 Customer Statistical Analysis
 
 Customer Lifetime Spend Distribution
 
 Orders vs Customer Spend Relationship
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="python_product_analysis.png" width="100%"><br><br>
-<b>Product Analysis</b>
-</td>
-<td align="center" width="50%">
-<img src="python_customer_analysis.png" width="100%"><br><br>
-<b>Customer Statistical Analysis</b>
-</td>
-</tr>
-</table>
+Analysis Preview
+
+<img src="python_customer_analysis.png" width="100%">
+
+Python Customer Statistical Analysis
 
 4. SQL Analysis
 
-MySQL was used to:
+SQL / MySQL was used to:
 
 Calculate business KPIs
 
@@ -176,9 +174,11 @@ Extract business insights
 
 Tableau was used to create interactive business visualizations and support data-driven analysis.
 
-<p align="center">
-<img src="tableau_dashboard.png" width="90%">
-</p>
+Dashboard Preview
+
+<img src="tableau_dashboard.png" width="100%">
+
+Tableau Dashboard
 
 📈 Key Business KPIs
 
@@ -287,6 +287,4 @@ E-Commerce Data Analytics
 
 📌 Author
 
-Mallikarjun
-
-
+Your Name
