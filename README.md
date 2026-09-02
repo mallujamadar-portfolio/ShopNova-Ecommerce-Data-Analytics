@@ -225,6 +225,6 @@ ShopNova/
 
 **E-Commerce Data Analytics**
 
-# 📌 Author
+# 📌 Perpared by
 
 **Mallikarjun**
