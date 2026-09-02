@@ -86,7 +86,7 @@ The dashboard analyzes:
 
 ### Dashboard Preview
 
-![Customer & Marketing Dashboard](Powerbi_customer_marketing.png)
+![Customer & Marketing Dashboard](powerbi_customer_marketing.png)
 
 ---
 
@@ -174,7 +174,7 @@ The analysis helps identify:
 
 ### Key Insights Dashboard
 
-![Key Insights](Key_Insights.png)
+![Key Insights](key_Insights.png)
 
 ---
 
@@ -193,7 +193,7 @@ The analysis provides recommendations to improve:
 
 ### Recommendations Dashboard
 
-![Recommendations](Recommendations.png)
+![Recommendations](recommendations.png)
 
 ---
 
